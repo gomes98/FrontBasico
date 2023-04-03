@@ -1,0 +1,16 @@
+Instalar o node 16 lts
+https://nodejs.org/download/release/v16.20.0/
+
+depois de instalar rode o comando 
+node -v
+depois 
+npm -v
+
+apos estes processos na raiz teste projeto execute o seguinte comando:
+npm -i
+
+apos a finalização da instalação das libs
+use o:
+npm run serve
+
+este ultimo comando inicia o servidor de desenvolvimento da aplicação
